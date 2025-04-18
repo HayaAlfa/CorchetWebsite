@@ -375,6 +375,7 @@ html{
     width: 20rem;
   }
   
+
   #modal-text-container {
     display: flex; 
     flex-direction: column;
@@ -383,5 +384,7 @@ html{
   }
 
   #thanks-modal img {
+    width : 10rem;
+    height: 10rem;
     transition: transform 0.3s ease-in-out;
   }
